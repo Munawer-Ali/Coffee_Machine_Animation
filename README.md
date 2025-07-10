@@ -2,6 +2,8 @@
 
 A sophisticated Flutter application showcasing a coffee ordering system with smooth animations, custom BLoC state management, and modern UI/UX design patterns.
 
+![Animation](https://github.com/user-attachments/assets/0d32d59c-5a40-41a4-a4ac-623a30667ba6)
+
 ## 🎯 Overview
 
 This project demonstrates a complete coffee ordering experience with:
